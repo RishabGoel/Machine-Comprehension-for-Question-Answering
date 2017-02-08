@@ -11,3 +11,8 @@
 * [Dynamic Coattention Networks For Question Answering](https://arxiv.org/pdf/1611.01604.pdf)(2016)
 * [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/pdf/1611.01603.pdf)(2016)
 * [Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus](https://arxiv.org/pdf/1603.06807.pdf)(2016)(Open Question Answering)
+
+# Datasets
+
+* [SQUAD](https://rajpurkar.github.io/SQuAD-explorer/)
+* [NewsQA](https://datasets.maluuba.com/NewsQA)
